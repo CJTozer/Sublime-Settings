@@ -1,4 +1,5 @@
-# Ignore everything but *.sublime-settings files (and the .gitignore itself!).
+# Ignore everything but *.sublime-settings files, the README and the .gitignore itself.
 *
 !.gitignore
 !*.sublime-settings
+!README.md
