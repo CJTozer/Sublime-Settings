@@ -1,0 +1,4 @@
+# Ignore everything but *.sublime-settings files (and the .gitignore itself!).
+*
+!.gitignore
+!*.sublime-settings
