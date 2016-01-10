@@ -8,14 +8,10 @@
 		"DocBlockr",
 		"DocBlockr_Python",
 		"Git",
-		"Markdown Preview",
-		"MarkdownEditing",
 		"orgmode",
 		"Package Control",
 		"PackageResourceViewer",
-		"SublimeGDB",
 		"SublimeLinter",
-		"SublimeLinter-pylint",
-		"UnitTesting"
+		"SublimeLinter-pylint"
 	]
 }
