@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"ignore_vcs_packages": true,
 	"in_process_packages":
 	[
@@ -8,11 +9,13 @@
 		"DocBlockr",
 		"DocBlockr_Python",
 		"Git",
-		"Markdown Preview",
-		"MarkdownEditing",
-		"orgmode",
+		"Markdown Extended",
+		"MarkdownLight",
 		"Package Control",
 		"PackageResourceViewer",
+		"PlainNotes",
+		"PlainTasks",
+		"SmartMarkdown",
 		"SublimeGDB",
 		"SublimeLinter",
 		"SublimeLinter-pylint",
