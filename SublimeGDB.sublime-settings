@@ -1,0 +1,10 @@
+{
+    "workingdir": "${folder:${project_path:Makefile}}/output/lnx64/newscr/mwmc",
+    "commandline": "PYTHONPATH=/usr/lib64/python2.7/ PYTHONHOME=/bin/ LD_LIBRARY_PATH=\"${project_path:artifacts}/libs/icu/lib/lnx64:${project_path:output}/lnx64/debug:${project_path:output}/jobs/lnx64/debug\" gdb --interpreter=mi ./tmwmc",
+
+    // Arguments for the command
+    "arguments": "128",
+
+    // Required to set breakpoints in libraries which are loaded dynamically.
+    "debug_ext": true,
+}
