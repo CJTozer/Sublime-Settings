@@ -9,8 +9,12 @@
 		"DocBlockr",
 		"DocBlockr_Python",
 		"Git",
+		"Markdown Extended",
+		"MarkdownLight",
 		"Package Control",
 		"PackageResourceViewer",
+		"PlainNotes",
+		"PlainTasks",
 		"SmartMarkdown",
 		"SublimeLinter",
 		"SublimeLinter-pylint"
